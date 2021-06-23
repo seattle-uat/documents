@@ -1,3 +1,3 @@
-# UAT Documents
+# Documentation
 
-Public-facing documents (usually in PDF form) may be uploaded here.
+Public-facing technical documentation may be uploaded here.
